@@ -1,0 +1,3 @@
+Ticket: "empty coffee machine in the office"
+Category: Other
+Answer: "Sorry to hear that! Please report this issue to our facilities team so they can restock or repair the machine as soon as possible. In the meantime, you may want to consider alternative options for your morning cup."

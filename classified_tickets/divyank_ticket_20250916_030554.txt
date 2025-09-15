@@ -1,0 +1,4 @@
+Ticket: ""
+Category: IT Support
+Answer: Please try restarting your laptop and then check if the issue persists. If not, please feel free to provide more details so we can assist you further.
+---

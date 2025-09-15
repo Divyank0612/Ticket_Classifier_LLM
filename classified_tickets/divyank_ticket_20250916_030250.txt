@@ -1,0 +1,6 @@
+---
+
+Ticket: "brightness of my laptop not working"
+Category: IT Support
+Answer: Sorry to hear that! Can you please try adjusting the brightness using the keyboard shortcut (usually F5 or F11) and see if it works? If not, we can troubleshoot further.
+---

@@ -1,0 +1,20 @@
+---
+
+Ticket: "I forgot my password, how to reset it?"
+Category: Login/Access Issue
+Answer: You can reset your password by clicking the 'Forgot Password' link on our login page and following the prompts. If you're still having trouble, please contact our IT department for assistance.
+
+---
+Ticket: "I can’t log in, as password is incorrect."
+Category: Login/Access Issue
+Answer: It looks like there might be a typo or mistake with your password. Try resetting your password using the 'Forgot Password' link on our login page. If you're still having trouble, please contact our IT department for assistance.
+
+---
+Ticket: "How to see leave balance?"
+Category: HR Query
+Answer: You can check your leave balance by logging into our HR portal and navigating to the 'My Leave' section. Alternatively, you can reach out to our HR department directly for assistance.
+
+---
+Ticket: "Laptop not turning on after update."
+Category: IT Support
+Answer: Sorry to hear that! It's possible that the update caused an issue with your laptop. Try restarting your laptop in safe mode or performing a system restore to see if that resolves the problem. If you're still having trouble, please contact our IT department for further assistance.
