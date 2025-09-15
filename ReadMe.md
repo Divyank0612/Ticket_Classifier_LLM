@@ -113,7 +113,7 @@ Answer: Please use the "Forgot Password" option on the login page. You’ll rece
 ------------------------------
 
 Ticket_Classifier_LLM/
--classified_tickets/         
+-classified_tickets      
 -tickets.csv  
 -ticket_classifier.ipynb          
 -README.md                   
