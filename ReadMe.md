@@ -37,8 +37,7 @@ TABLE OF CONTENTS
 2. INSTALLATION
 ------------------------------
 1. Clone this repository:
-   git clone https://github.com/<your-username>/llm-support-assistant.git
-   cd llm-support-assistant
+   git clone https://github.com/Divyank0612/Ticket_Classifier_LLM/
 
 2. Install Python dependencies:
    pip install ollama pandas
@@ -48,7 +47,7 @@ TABLE OF CONTENTS
 ------------------------------
 3. DATASET
 ------------------------------
-A synthetic dataset (synthetic_ticket_dataset.csv) with 200 tickets is included for training and few-shot examples.
+A synthetic dataset (ticket.csv) with 200 tickets is included for training and few-shot examples.
 
 - Columns: Ticket, Category
 - Categories: Login/Access Issue, HR Query, IT Support, Other
@@ -115,11 +114,10 @@ Answer: Please use the "Forgot Password" option on the login page. You’ll rece
 ------------------------------
 
 Ticket_Classifier_LLM/
-│
-├─ classified_tickets/           # Saved outputs
-├─ synthetic_ticket_dataset.csv  # 200-row few-shot dataset
-├─ ticket_assistant.py           # Main all-in-one script
-├─ README.txt                    # Project documentation
+-classified_tickets/         
+-tickets.csv  
+-ticket_classifier.ipynb          
+-README.md                   
 
 ------------------------------
 7. LICENSE
