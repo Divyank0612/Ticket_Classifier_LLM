@@ -1,6 +1,5 @@
-============================
+
 TICKET CLASSIFIER LLM
-============================
 
 A Python project for support ticket classification and resolution using a local LLaMA 3 model via Ollama.
 This project provides an all-in-one solution for classifying tickets and generating helpful answers interactively or from a predefined list.
@@ -12,8 +11,8 @@ TABLE OF CONTENTS
 2. Installation
 3. Dataset
 4. Usage
-   a. Manual Ticket Classification
-   b. Interactive LLM Assistant
+   -Manual Ticket Classification
+   -Interactive LLM Assistant
 5. Output Format
 6. Folder Structure
 7. License
